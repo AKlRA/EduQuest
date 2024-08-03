@@ -1,16 +1,12 @@
-# ProctoAI-MERN
+# EduQuest
 
-ProctoAI-MERN is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
-
-![ProctoAI-MERN](readme-images/proctoai-mern.jpg)
+EduQuest is an online test interface web application designed for kids in junior and elementary schools. This user-friendly platform ensures a fun and interactive experience for young learners. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich online test-taking solution.
 
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
-
   - [Backend](#backend)
   - [Frontend](#frontend)
-
 - [Current Functionality](#current-functionality)
   - [User Authentication and Role Management](#user-authentication-and-role-management)
   - [Teacher Capabilities](#teacher-capabilities)
@@ -32,7 +28,7 @@ ProctoAI-MERN is an Automated Exam Proctoring System (AEPS) developed with cutti
 
 ## Tech Stack
 
-ProctoAI-MERN utilizes a range of technologies to provide its comprehensive functionality. The key technologies and dependencies used in this project include:
+EduQuest utilizes a range of technologies to provide its comprehensive functionality. The key technologies and dependencies used in this project include:
 
 ### Backend
 
@@ -104,39 +100,23 @@ ProctoAI-MERN utilizes a range of technologies to provide its comprehensive func
 
 - #### Student
 
-![Login Page](readme-images/login-page-student.jpg)
-
 - #### Teacher
-
-![Login Page](readme-images/login-page-teacher.jpg)
 
 ### Dashboard
 
 - #### Student
 
-![Student Dashboard](readme-images/student-dashboard.jpg)
-
 - #### Teacher
-
-![Teacher Dashboard](readme-images/teacher-dashboard.jpg)
 
 ### Creating Exam Feature
 
 - #### Create Exam
 
-![Create Exam](readme-images/create-exam.jpg)
-
 - #### Success
-
-![Create Exam](readme-images/create-exam-success.jpg)
 
 - #### Create Questions
 
-![Create Questions](readme-images/create-question.jpg)
-
 ### Exam Page
-
-![Exam Page](readme-images/exam-page.png)
 
 ### Cheating Detection During Exam
 
@@ -144,29 +124,17 @@ ProctoAI-MERN utilizes a range of technologies to provide its comprehensive func
 
 #### Cell Phone Detection
 
-![Cell Phone Detection](readme-images/cell-phone-detection.png)
-
 #### Prohibited Object Detection
 
-![Prohibited Object Detection](readme-images/prohibited-object-detection.jpg)
-
 #### Face Not Visible Detection
-
-![Cell Phone Detection](readme-images/face-not-visible-detection.jpg)
 
 ### Test Page
 
 #### Start
 
-![Test Start](readme-images/test-start.jpg)
-
 #### Submitted
 
-![Test Submitted](readme-images/test-submitted.jpg)
-
 ### Cheat Log Dashboard
-
-![Cheat Log Dashboard](readme-images/cheat-log-dashboard.png)
 
 More features and improvements are in development and will be included in future updates.
 
@@ -181,4 +149,8 @@ To run this project locally, follow these steps:
 
 ## Contributors
 
-- [Mohd Zubair](https://github.com/mohdzubairshafi)
+- Developed by the EduQuest team.
+
+## License
+
+This project is licensed under the MIT License.
